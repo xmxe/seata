@@ -19,7 +19,10 @@
 - [Spring Boot 多数据源如何处理事务](https://mp.weixin.qq.com/s/NbnCiRwRFUZGym5vDxOoPQ)
 - [亿级流量架构分布式事务如何实现？](https://mp.weixin.qq.com/s/lwCNNCyG9wwtRHsni5pD8g)
 - [SpringBoot 分布式事务的解决方案（JTA+Atomic+多数据源）](https://mp.weixin.qq.com/s/ic57T3Yj2C_5tpdnM39IrQ)
+- [分布式事务，原理简单，写起来全是坑！](https://mp.weixin.qq.com/s/29PmqK_bzDgh8bl9SBY3Uw)
+- [分布式事务处理方案大 PK！](https://mp.weixin.qq.com/s/kiRD3Hmdx2b__cBWeQOTWQ)
+- [如何用 RabbitMQ 解决分布式事务](https://mp.weixin.qq.com/s/wTF3LlUKtH3lzsVgCLdCpQ)
 
 
-  
+
 
