@@ -23,6 +23,7 @@
 - [分布式事务处理方案大 PK！](https://mp.weixin.qq.com/s/kiRD3Hmdx2b__cBWeQOTWQ)
 - [如何用 RabbitMQ 解决分布式事务](https://mp.weixin.qq.com/s/wTF3LlUKtH3lzsVgCLdCpQ)
 - [MySQL 为什么需要两阶段提交？](https://mp.weixin.qq.com/s/XRGIO7S9q9XqAfwqWr0OsQ)
+- [阿里 Seata 新版本终于解决了 TCC 模式的幂等、悬挂和空回滚问题](https://mp.weixin.qq.com/s/nM81BRyQRTWab78a6KTD-g)
 
 
 
