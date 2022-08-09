@@ -1,3 +1,7 @@
+- [seata官方网站](http://seata.io/zh-cn/)
+---
+#### notes
+
 - [一致性协议算法-2PC、3PC、Paxos、Raft、ZAB、NWR详解](https://mp.weixin.qq.com/s/YxlAtPmCZ8h_oyPStXJP_A)
 - [阿里终面：分布式事务原理](https://mp.weixin.qq.com/s/JZnLbBrRx_fDtnsYsRs4Aw)
 - [分布式事务，阿里为什么钟爱TCC](https://mp.weixin.qq.com/s/eczKVv7Jgt4f0Mhwaq1JXw)
